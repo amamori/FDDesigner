@@ -1,0 +1,15 @@
+{
+    "root": {
+        "a": "",
+        "c": {
+            "d": {
+                "file": ["e.txt"]
+            },
+            "file": "yyy.txt"
+        },
+        "x": "xxx.txt",
+        "file": ["b.txt", "fff.txt"]
+    },
+    "src":{},
+    "file":{}
+}
