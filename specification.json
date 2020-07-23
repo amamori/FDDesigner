@@ -1,15 +1,14 @@
 {
+    "root_path": "./aaa",
     "root": {
-        "a": "",
+        "a": {},
         "c": {
             "d": {
                 "file": ["e.txt"]
-            },
-            "file": "yyy.txt"
+            }
         },
-        "x": "xxx.txt",
         "file": ["b.txt", "fff.txt"]
     },
     "src":{},
-    "file":{}
+    "file":["a.txt"]
 }
